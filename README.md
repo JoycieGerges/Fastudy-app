@@ -30,5 +30,14 @@ Fastudy is an educational mobile application built using **Flutter** and **Fireb
 
 To run the app locally:
 
-1. Clone the repo  
+1. Clone the repo
+---
+
+ ## 🧠 Author
+
+**Developed by [Joycie Gerges](mailto:joyciegerges@gmail.com)**
+
+📧 **Email:** [joyciegerges@gmail.com](mailto:joyciegerges@gmail.com)  
+🌐 **[My Portfolio](https://joycieportfolio.netlify.app)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/joycie-gerges-b45514248)**
 
